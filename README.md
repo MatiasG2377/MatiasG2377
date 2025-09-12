@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, I'm Matías:
 🔭 I’m currently working on Optical management system<br><br>🌱 I’m currently learning Python, Advanced React patterns<br><br>💬 Ask me about Python, Django, React<br><br>📫 How to reach me matiasg002@outlook.com
 
 
