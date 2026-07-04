@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy Matías 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%2B+React+%2B+MySQL;Aprendiendo+AI+Agents+%F0%9F%A4%96;Siempre+shippeando+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%2B+React+%2B+MySQL;Python+%2B+Django+%2B+FastAPI;Aprendiendo+AI+Agents+%F0%9F%A4%96;Siempre+shippeando+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💼 Full Stack Developer construyendo aplicaciones web modernas con <b>Laravel</b> y <b>React</b><br/>
+  💼 Full Stack Developer construyendo aplicaciones web modernas con <b>Laravel</b>, <b>React</b> y <b>Python</b><br/>
   🌱 Aprendiendo <b>React avanzado</b>, <b>AI Agents</b> y ampliando mi ecosistema Laravel<br/>
-  💬 Pregúntame sobre <b>Laravel, PHP, React, JavaScript, MySQL, Git o Python</b><br/>
+  💬 Pregúntame sobre <b>Laravel, PHP, React, JavaScript, Python, MySQL o Git</b><br/>
   📫 Contáctame: <a href="mailto:matiasg002@outlook.com">matiasg002@outlook.com</a>
 </p>
 
@@ -28,13 +28,13 @@
 ### 🚀 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,python,mysql,git,github" />
 </p>
 
 ### 🧩 También trabajo con
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,firebase,tailwind,bootstrap,postgres,sqlite,vercel" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,firebase,tailwind,bootstrap,postgres,sqlite,vercel" />
 </p>
 
 ---
@@ -47,19 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasg002&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasG2377&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasg002&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matiasg002&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasG2377&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
